@@ -1,1 +1,3 @@
-<img src="https://i.pinimg.com/736x/94/41/4d/94414d2825da98bfdc833348eb24b8b1.jpg" alt="almond" class="center">
+<div align="center">
+  <img width = "33%" src="https://i.pinimg.com/736x/94/41/4d/94414d2825da98bfdc833348eb24b8b1.jpg">
+</div>
